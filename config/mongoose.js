@@ -1,7 +1,6 @@
 const mongooose = require('mongoose');
 // -----------connection to mongodb-------------------//
-mongooose.connect('mongodb+srv://divyagaurav:divyagaurav@cluster0.dmvvsbj.mongodb.net/?retryWrites=true&w=majority');
-// mongooose.connect('mongodb://localhost/HospitalAPI');
+mongooose.connect('mongodb://localhost/HospitalAPI');
 
 // ---------------establish connection---------------//
 const db = mongooose.connection;
