@@ -12,7 +12,7 @@
         "nodejs",
         "api"
     ],
-    "author": "Divya Gaurav",
+    "author": "Awadhesh Gupta",
     "license": "ISC",
     "dependencies": {
         "express": "^4.18.2",
