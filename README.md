@@ -94,10 +94,6 @@ Hospital-API
     |-->.gitignore
     |-->package.json
     |
-``` 
  
-## 🚀 About Me
-I'm a junior full stack developer...
-
-who enjoy and love to work on web developement and learning new technology in my free times.
+ 
 
